@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 
 ## 🌟Skills
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical&height=195)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical)
