@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Kwon%20San&fontSize=60&desc=Backend%20Developer&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Kwon%20San&reversal=false&desc=Backend%20Developer&descAlignY=71" />
 
 <!--
 **ksan41/ksan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 
 
 ## 🌟Skills
+
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact)
