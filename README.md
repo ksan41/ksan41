@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Kwon%20San&fontSize=60&desc=Backend%20Developer&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Kwon%20San&fontSize=60&desc=Backend%20Developer&descAlignY=68" />
 
 <!--
 **ksan41/ksan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <a href="https://programming-mtk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=tistory&logoColor=09B3AF"/></a>
 
 ---
-### Skills
+### 🌟Skills
