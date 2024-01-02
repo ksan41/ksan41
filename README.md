@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwon%20San%20render&fontSize=90&desc=Backend%20Developer" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kwon%20San%20render&fontSize=60&desc=Backend%20Developer&descAlignY=70" />
 
 <!--
 **ksan41/ksan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
