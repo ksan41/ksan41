@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical)
 <br>
-[![https://solved.ac/profile/aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj=aquam41)](https://solved.ac/aquam41)
