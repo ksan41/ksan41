@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical)
+<br>
+[![https://solved.ac/profile/aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
