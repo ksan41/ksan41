@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ---
-[![ksan41's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical)
 <br>
 [![aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj=aquam41)](https://solved.ac/aquam41)
