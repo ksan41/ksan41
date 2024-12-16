@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical)
 <br>
 [![aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj=aquam41)](https://solved.ac/aquam41)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=aura_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=aura&icons=true)
