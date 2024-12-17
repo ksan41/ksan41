@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksan41&layout=compact&theme=radical)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksan41&theme=aura&icons=true)
 <br>
 [![aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj=aquam41)](https://solved.ac/aquam41)
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksan41&repo=ddd_basic)](https://github.com/anuraghazra/github-readme-stats)
