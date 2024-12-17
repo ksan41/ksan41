@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 <br>
 [![aquam41](http://mazassumnida.wtf/api/v2/generate_badge?boj=aquam41)](https://solved.ac/aquam41)
 
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksan41&repo=ddd_basic&theme=shades-of-purple)](https://github.com/ksan41/ddd_basic)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksan41&repo=ddd_basic&theme=shades-of-purple)](https://github.com/ksan41/ddd_basic) -->
